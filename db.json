@@ -1,3 +1,11 @@
 {
-    "posts": []
+    "posts": [
+      {
+        "id": 1,
+        "title": "Bienvenidos al foro",
+        "content": "Este es el primer post",
+        "score": 5
+      }
+    ]
   }
+  
